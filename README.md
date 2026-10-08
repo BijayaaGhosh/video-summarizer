@@ -1,6 +1,6 @@
 # 🎬 AI-Based Video Summarizer
 
-A full-stack web application that automatically generates a text transcript, an I-powered summary, and a highlight video from any uploaded video file or YouTube URL.
+A full-stack web application that automatically generates a text transcript, an AI-powered summary, and a highlight video from any uploaded video file or YouTube URL.
 
 
 
@@ -24,7 +24,7 @@ Step 4: Highlight video.OpenCV scores every frame using three parameters:
    
 - Results appear one by one as each step finishes, using Server-Sent Events (SSE) streaming, so you don't have to wait for everything to complete before seeing output.
 
-- Key Features
+Key Features
    
 - Supports video files up to 500 MB
 - Handles long videos through chunked audio processing
@@ -35,7 +35,7 @@ Step 4: Highlight video.OpenCV scores every frame using three parameters:
 - Downloadable highlight video (MP4)
 - Mobile-responsive UI with a dark glassmorphism design
                    
--  Tech Stack
+Tech Stack
                    
                   
  - | Frontend | React.js |
